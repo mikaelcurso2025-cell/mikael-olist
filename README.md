@@ -3,7 +3,7 @@
 # 📊 Data Pipeline & Analytics  
 ### Armazenamento, Manipulação e Transformação de Dados
 
-![Banner do Projeto](.Banner.png)
+![Banner do Projeto](\.Banner.png)
 
 Pipeline de dados desenvolvido para consolidação, tratamento e análise de dados de um marketplace, utilizando conceitos de **ETL**, **Data Warehouse** e **Modelagem Dimensional (Star Schema)**.
 
